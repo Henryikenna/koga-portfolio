@@ -36,10 +36,9 @@ const FooterSection = () => {
               Chikako Koga
             </h2>
             <h4 className=" pb-3 lg:text-xl lg:pb-5">
-              <span className="font-semibold">Office Address:</span> Hanzo Mon
-              PREX South 2F, 2-5-1 Kojimachi Chyyoda-ku, Tokyo 102-0083 Japan.
+              <span className="font-semibold">Office Address:</span> 5621-8, Takeo, Takeo city, Saga 843-0022 Japan.
             </h4>
-            <h5 className=" pb-3 lg:text-xl lg:pb-5">Tokyo TKY</h5>
+            <h5 className=" pb-3 lg:text-xl lg:pb-5">Kyushu KYU</h5>
             <p className=" font-medium pb-2 lg:text-xl lg:pb-4">
               koga1a@outlook.jp | chikako.koga@welocalize.com
             </p>
